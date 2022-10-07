@@ -1,0 +1,30 @@
+button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+  .add{
+    background-color: #67a86a;
+  }
+  .sub{
+    background-color: #a058c7;
+  }
+  .multi{
+    background-color: #af4ca0;
+  }
+  .div{
+    background-color: #af4c6b;
+  }
+  .result{
+    background-color: rgb(186, 180, 180);
+    height: 30px;
+    width: 120px;
+
+  }

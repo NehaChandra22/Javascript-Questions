@@ -1,0 +1,25 @@
+:root{
+    --primary-color: rgb(255, 0, 43);
+    --secondary-color: rgb(0, 110, 255);
+    
+}
+
+
+
+
+h1{
+    color: var(--primary-color);
+}
+
+h2{
+    color: var(--secondary-color);
+}
+.RED{
+    background-color: var(--primary-color);
+}
+.BLUE{
+    background-color: var(--secondary-color);
+}
+h3{
+    font-family: 'Sacramento', cursive;
+}
